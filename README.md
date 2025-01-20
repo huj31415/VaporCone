@@ -23,6 +23,7 @@ Waterfall configs for faking volumetric transonic vapor cones (around Mach 0.9-1
 ## Requirements
 * Waterfall
 * ModuleManager
+* B9PartSwitch
 
 ## Screenshots
 ![vapor cones](.github/small%20med.png)
