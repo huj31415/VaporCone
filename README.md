@@ -4,6 +4,7 @@ Waterfall configs for faking volumetric transonic vapor cones (around Mach 0.9-1
 ## Features
 * Adds a part to Utility called "Vapor cone generator" that looks like the small linear RCS port
 * Includes 4 preset sizes and a disable option (for displaying cones in different orientations)
+* Includes 2 shape variants, flat conical for aircraft and rockets and rounded for rockets
 
 ## How to use
 * Just put the Vapor cone generator part wherever you want a vapor cone to be
@@ -26,10 +27,17 @@ Waterfall configs for faking volumetric transonic vapor cones (around Mach 0.9-1
 * B9PartSwitch
 
 ## Screenshots
+Flat conical vapor cones
+
 ![vapor cones](.github/small%20med.png)
 ![vapor cones](.github/small%20med%20(2).png)
 ![vapor cones](.github/small%20med%20large.png)
 ![vapor cones on booster](.github/booster.png)
+
+Rounded vapor cones
+
+![rounded cones on rocket 1](.github/rocket1.png)
+![rounded cones on rocket 2](.github/rocket2.png)
 
 ## Credits
 Waterfall configs loosely based on KnightOfStJohn's Stock Waterfall Effects configs
