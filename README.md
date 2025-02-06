@@ -1,6 +1,8 @@
 # Vapor Cones mod for KSP
 Waterfall configs for faking volumetric transonic vapor cones (around Mach 0.95-1.05)
 
+Now on [Spacedock](https://spacedock.info/mod/3814/Volumetric%20Vapor%20Cones)
+
 ## Features
 * Adds a part to Utility called "Vapor cone generator" that looks like the small linear RCS port
 * Includes 4 preset sizes and a disable option (for displaying cones in different orientations)
